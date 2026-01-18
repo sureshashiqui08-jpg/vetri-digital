@@ -1,0 +1,8 @@
+{
+  "name": "Vetri Digital College",
+  "description": "A modern, professional educational platform for digital learning, featuring a smart course assistant and experimental AI labs powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
